@@ -1,5 +1,5 @@
 Under construction
-## 👋 Hello, I'm Rohan ! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
+## 👋 Hello, I'm Rohan ! <img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="60vw">
 ### Designer x Developer
 Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> who craves for perfection and quality. 
 #### BIO
@@ -8,7 +8,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
 
-#### Work Experience ![tenor](https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif)
+#### Work Experience <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
 - 💖 Member of Google Developer Student Club & HackClub.
 - ✨ Product Designer, Quordnet Academy.
 
