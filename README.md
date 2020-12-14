@@ -3,6 +3,7 @@ Under construction
 ### Designer x Developer
 
 #### BIO
+- 👨‍🎓 CS Undergrad
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
 - 👯 Would love to collaborate on Full stack projects
 - ⚡ Fun fact: Love icecream & chocolates.
