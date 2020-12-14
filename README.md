@@ -5,8 +5,8 @@ Just a 2nd yr student who craves for perfection and quality.
 #### BIO
 - 👨‍🎓 CS Undergrad
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
-- 👯 Would love to collaborate on Full stack projects
-- ⚡ Fun fact: Love icecream & chocolates.
+- 👯 Would love to collaborate on Design & Full stack projects
+- ⚡ Fun fact: Asia's youngest 🏆 in Yoga.
 
 #### Work Experience
 - 💖 Member of Google Developer Student Club & HackClub.
