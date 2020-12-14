@@ -8,7 +8,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
 
-#### Work Experience
+#### Work Experience ![tenor](https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif)
 - 💖 Member of Google Developer Student Club & HackClub.
 - ✨ Product Designer, Quordnet Academy.
 
