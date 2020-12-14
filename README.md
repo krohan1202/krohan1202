@@ -1,7 +1,7 @@
 Under construction
 ## 👋 Hello, I'm Rohan !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
 ### Designer x Developer
-
+Just a 2nd yr student who craves for perfection and quality of a product. 
 #### BIO
 - 👨‍🎓 CS Undergrad
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
