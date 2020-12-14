@@ -1,7 +1,8 @@
 Under construction
-### 👋 Hello, I'm Rohan !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-## Designer x Developer
+## 👋 Hello, I'm Rohan !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
+### Designer x Developer
 
+#### BIO
 - 💖 Member of Google Developer Student Club & HackClub.
 - ✨ Product Designer, Quordnet Academy.
 - 🔭 Learning new stuff daily.
