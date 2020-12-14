@@ -1,10 +1,11 @@
 Under construction
 ## Designer x Developer
 
+- 💖 Member of Google Developer Student Club & HackClub.
+- ✨ Product Designer, Quordnet Academy.
 - 🔭 Learning new stuff daily.
 - 👯 Would love to collaborate on Full stack projects
 - 🤔 Will be looking for an internship.
-- 💬 Ask me if i want to be your friend
 - ⚡ Fun fact: Love icecream & chocolates.
 - Also Asia's youngest Yoga 🏆
 
