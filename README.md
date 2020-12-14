@@ -7,7 +7,6 @@ Under construction
 - 👯 Would love to collaborate on Full stack projects
 - 🤔 Will be looking for an internship.
 - ⚡ Fun fact: Love icecream & chocolates.
-- Also Asia's youngest Yoga 🏆
 
 <br />
 <br />
