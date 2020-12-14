@@ -5,7 +5,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 #### BIO
 - 👨‍🎓 CS Undergrad
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
-- 👯 Would love to collaborate on Design & Full stack projects
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
 
 #### Work Experience
@@ -15,6 +15,18 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 <br />
 <br />
 ---
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/Rohan Karmakar/">
+    <img align="left" alt="Rohan Karmakar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rohankarmakar1202/">
+    <img align="left" alt="Rohan Karmakar | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:krohan1202@gmail.com">
+    <img align="left" alt="Rohan Karmakar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
 
 <details>
   <summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="46"> How about some stats ?</summary>
