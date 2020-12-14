@@ -11,3 +11,13 @@ Under construction
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krohan1202&show_icons=true&hide_border=true" />
+
+</details>
