@@ -5,7 +5,6 @@ Under construction
 #### BIO
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
 - 👯 Would love to collaborate on Full stack projects
-- 🤔 Will be looking for an internship.
 - ⚡ Fun fact: Love icecream & chocolates.
 
 #### Work Experience
