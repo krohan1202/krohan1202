@@ -17,7 +17,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 ---
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/Rohan Karmakar/">
+  <a href="https://www.linkedin.com/in/rohan-karmakar-01587a193/">
     <img align="left" alt="Rohan Karmakar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/rohankarmakar1202/">
