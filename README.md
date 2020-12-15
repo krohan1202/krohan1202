@@ -1,6 +1,6 @@
 Under construction
 ## 👋 Hello, I'm Rohan ! <img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="60vw">
-### Designer x Developer
+### Product Designer x Full stack Web Developer
 Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> who craves for perfection and quality. 
 #### BIO
 - 👨‍🎓 CS Undergrad
