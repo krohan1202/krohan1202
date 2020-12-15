@@ -13,7 +13,6 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 - ✨ Product Designer, Quordnet Academy.
 
 <br />
-<br />
 
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -26,7 +25,8 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
   <a href="mailto:krohan1202@gmail.com">
     <img align="left" alt="Rohan Karmakar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-
+  
+<br />
 
 <details>
   <summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="46"> How about some stats ?</summary>
