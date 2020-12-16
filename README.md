@@ -4,7 +4,7 @@ Under construction
 Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> who craves for perfection and quality. 
 #### BIO
 - 👨‍🎓 CS Undergrad
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> Learning new stuff daily.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> Learning new stuff daily.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
 - 👩🏼‍🤝‍🧑🏻Known to be a great collaborator.
