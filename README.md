@@ -28,12 +28,12 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
   </a>
   
 <br />
-
+<br />
 <details>
   <summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="46"> How about some stats ?</summary>
 
   <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krohan1202&count_private=true&theme=algolia&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
 <img src="https://gpvc.arturio.dev/krohan1202" alt="profile views"/>
