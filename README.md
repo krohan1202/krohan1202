@@ -34,9 +34,10 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
   <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krohan1202&count_private=true&theme=algolia&show_icons=true&hide_border=true" />
 
 </details>
+<details>
+  <summary>:zap: Most Used Languages?</summary>
 
-<summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="46"> Most Used Languages?</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202&layout=compact&theme=algolia" />
+<img align="left" alt="Rohan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202" />
 
 </details>
 <br />
