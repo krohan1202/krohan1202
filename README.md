@@ -37,7 +37,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 <details>
   <summary>:zap: Most Used Languages?</summary>
 
-<img align="left" alt="Rohan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202" />
+<img align="left" alt="Rohan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202&theme=algolia" />
 
 </details>
 <br />
