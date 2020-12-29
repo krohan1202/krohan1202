@@ -2,7 +2,7 @@
 ### Product Designer x Full stack Web Developer
 Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> who craves for perfection and quality. 
 
-<img align="right" alt="GIF" src="video.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="video.gif" width="400" height="250" />
 
 #### BIO
 - 👨‍🎓 CS Undergrad
