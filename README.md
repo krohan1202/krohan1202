@@ -10,7 +10,7 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
 
-#### Tools 'n' Tech
+#### Tools 'n' Tech <img src="" width="20px">
 
 #### Work Experience <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="21px">
 - 💖 Member of Google Developer Student Club & HackClub.
