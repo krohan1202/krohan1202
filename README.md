@@ -8,11 +8,11 @@ Just a 2nd yr student <img src="https://github.com/SatYu26/SatYu26/blob/master/A
 - 👨‍🎓 CS Undergrad
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> Learning new stuff daily.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: Asia's youngest 🏆 in Yoga.
+- 💖 Fun fact: Asia's youngest 🏆 in Yoga.
 
-#### Tools 'n' Tech <img src="" width="20px">
+#### Tools 'n' Tech <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="21vw">
 
-#### Work Experience <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="21px">
+#### Work Experience <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20vw">
 - 💖 Member of Google Developer Student Club & HackClub.
 - ✨ Product Designer, Quordnet Academy.
 
