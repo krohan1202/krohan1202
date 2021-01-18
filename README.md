@@ -8,7 +8,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - 💖 Fun fact: Asia's youngest 🏆 in Yoga.
 
-#### Tools 'n' Tech &nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="21vw">
+#### Tools n' Tech &nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="21vw">
 ##### Languages:
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="30"></code>
 <code><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30"></code>
