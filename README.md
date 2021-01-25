@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Rohan!<img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="60vw">
+## 👋 Heyy, Rohan here<img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="60vw">
 ### Product Designer x Full stack Web Developer
 <img align="right" alt="GIF" src="video.gif" width="400" height="250" />
 
