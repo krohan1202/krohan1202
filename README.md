@@ -8,7 +8,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
 - 💖 Fun fact: Asia's youngest 🏆 in Yoga.
 
-### Got any time? Talk with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Wanna talk? I'm always up<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/rohan-karmakar-01587a193/">
     <img align="left" alt="Rohan Karmakar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
