@@ -10,7 +10,7 @@
 
 ### Wanna talk? I'm always up<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/rohan-karmakar-01587a193/">
+  <a href="https://www.linkedin.com/in/rohan-karmakar/">
     <img align="left" alt="Rohan Karmakar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/rohankarmakar1202/">
