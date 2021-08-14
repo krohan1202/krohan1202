@@ -21,19 +21,6 @@
   
 <br />
 <br />
-<details>
-  <summary> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="46"> How about some stats ?</summary>
-
-  <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krohan1202&count_private=true&theme=algolia&show_icons=true&hide_border=true" />
-  
-
-</details>
-<details>
-  <summary>:zap: Most Used Languages?</summary>
-
-<img align="left" alt="Rohan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202&theme=algolia" />
-
-</details>
 <br />
 <img src="https://gpvc.arturio.dev/krohan1202" alt="profile views"/>
 
