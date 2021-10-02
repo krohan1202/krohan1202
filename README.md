@@ -24,4 +24,24 @@
 <br />
 <img src="https://gpvc.arturio.dev/krohan1202" alt="profile views"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krohan1202&" alt="Rohan's current streak" /></p>
+## 🏆 Github Profile Trophy </h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamdutta2000&theme=dracula" alt="Shubhamdutta2000" /></a> </p>
+
+<br />
+
+## Overall Profile Stats
+
+<table>
+  <tr >
+      <td align="right" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/?username=krohan1202&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krohan1202&layout=compact&theme=merko" />
+    </td>
+
+  </tr>
+</table>
+
+<br />
