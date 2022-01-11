@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/rohan-karmakar/">
     <img align="left" alt="Rohan Karmakar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/rohankarmakar1202/">
+  <a href="https://www.instagram.com/rohan.esque/">
     <img align="left" alt="Rohan Karmakar | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:krohan1202@gmail.com">
