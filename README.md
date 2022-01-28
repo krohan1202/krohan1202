@@ -26,7 +26,7 @@
 
 ## 🏆 Github Profile Trophy </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krohan1202&theme=dracula" alt="Shubhamdutta2000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamdutta2000&theme=dracula" alt="krohan1202" /></a> </p>
 
 <br />
 
