@@ -1,10 +1,10 @@
-## 👋 Heyy, Rohan here<img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="60vw">
+## 👋 Heyy, Rohan here <img alt="GIF" src="https://user-images.githubusercontent.com/66785205/102096644-f3940c00-3e4a-11eb-8467-11711c783ae3.gif" width="70">
 ### Product Designer x Full stack Web Developer
-<img align="right" alt="GIF" src="video.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="video.gif" width="400" />
 
 #### BIO
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> Learning new stuff daily.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Would love to collaborate on Design & Full stack projects
+- Would love to collaborate on Design & Full stack projects
 - 💖 Fun fact: Asia's youngest 🏆 in Yoga.
 
 ### Wanna talk? I'm always up<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
