@@ -2,10 +2,8 @@
 ### Product Designer x Full stack Web Developer
 <img align="right" alt="GIF" src="video.gif" width="400" />
 
-#### BIO
+
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> Learning new stuff daily.
-- Would love to collaborate on Design & Full stack projects
-- 💖 Fun fact: Asia's youngest 🏆 in Artistic Yoga.
 
 ### Wanna talk? I'm always up<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
